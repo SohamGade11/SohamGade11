@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on different projects related to data(management & analysis) which will help me gain more knowledge about the subject.
 - 📈 I'm looking for an entry level data analyst role with a view of growing even further! 
 - 📫 How to reach me : Email - sohamsgade@gmail.com
-                        Linkedin - linkedin.com/in/sohamgade/
+                        Linkedin - https://www.linkedin.com/in/sohamgade/
 
 <!---
 SohamGade11/SohamGade11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
